@@ -4,6 +4,7 @@
 
  
  <img width="1023" height="579" alt="Fig3" src="https://github.com/user-attachments/assets/4ace086b-618d-4e38-8b50-2d1ac5446bd1" />
+ 
  ## Highlight
 
 This study proposes an anomaly detection method that integrates forward distillation and reverse distillation. A high-performance anomaly detection
