@@ -1,9 +1,11 @@
 # <p align=center> Beyond Single Distillation: Bidirectional FeatureLearning with Dynamic Weighting for Robust Anomaly Localization </p>
 #### Kaiyue Wang, Lu Zhang, Jieru Chi, Chenglizhao Chen, Teng Yu </sup>
 
- <img width="1210" height="603" alt="Fig1" src="https://github.com/user-attachments/assets/48a462f3-4f51-4ea2-beba-fc3f8a4d58ff" />
+
  
+ <img width="1023" height="579" alt="Fig3" src="https://github.com/user-attachments/assets/4ace086b-618d-4e38-8b50-2d1ac5446bd1" />
  ## Highlight
+
 This study proposes an anomaly detection method that integrates forward distillation and reverse distillation. A high-performance anomaly detection
 model should not only exhibit outstanding performance in single-task scenarios but also possess robust knowledge retention capability to adapt to dynamically evolving production environments.
 
